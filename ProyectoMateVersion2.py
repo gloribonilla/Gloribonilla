@@ -157,6 +157,3 @@ while men:
         men=False
     else:
         print("Invalido")
-
-#Definiciones
-
